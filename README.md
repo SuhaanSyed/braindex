@@ -23,6 +23,10 @@ npm run start --clear
 2. Open the app
 3. Enjoy!
 
+### Contributors
+
+Alexis, Suhaan and Bhavik
+
 ### License
 
 Distributed under the GNU AGPL License. See `LICENSE` for more information.
